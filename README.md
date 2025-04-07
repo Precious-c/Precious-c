@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Proxy - a local service provider app**
 
-- 👨‍💻 All of my projects are available at [https://amaechiprecious.netlify.app/](https://amaechiprecious.netlify.app/)
+
 
 - 📫 How to reach me **preciousamaechi111@yahoo.com**
 
